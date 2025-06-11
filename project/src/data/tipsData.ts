@@ -71,7 +71,7 @@ export const tipsData: Tip[] = [
     id: 'tip3',
     title: 'Soil Health for Container Gardens',
     category: 'general',
-    image: 'https://images.pexels.com/photos/7782515/pexels-photo-7782515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://media.istockphoto.com/id/1331087798/photo/hands-holding-plant-over-soil-land-sustainability.jpg?s=612x612&w=0&k=20&c=IVbTDGlDY6CmjbjiwDjgIGgvaOU0HNWmqr19d3R0PSQ=',
     content: [
       'The foundation of any successful garden is healthy soil, and this is especially true for container gardens. Container soil needs to provide adequate nutrition, good water retention, and proper drainage.',
       'Unlike in-ground gardens, container soil doesn\'t naturally replenish its nutrients or beneficial microorganisms, so it requires more attention and care.'
