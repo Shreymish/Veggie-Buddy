@@ -302,7 +302,7 @@ export const tipsData: Tip[] = [
     id: 'tip10',
     title: 'Companion Planting Basics',
     category: 'general',
-    image: 'https://images.pexels.com/photos/2560809/pexels-photo-2560809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://www.marthastewart.com/thmb/jvH_OyJ00XnKeSdkNPnlAsDUkj4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc()/how-far-plant-tomato-plants-in-garden-getty-0623-2c55eb0c17ce4ac0ad3b18808230ebe2.jpg',
     content: [
       'Companion planting is the practice of growing certain plants near each other for mutual benefit. These benefits can include pest deterrence, improved pollination, enhanced growth, and maximized use of space.',
       'In container and rooftop gardens, thoughtful companion planting can help you create a more resilient, productive, and balanced growing environment.'
