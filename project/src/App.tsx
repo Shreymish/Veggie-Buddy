@@ -1,3 +1,4 @@
+import FAQPage from "./pages/FAQPage";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import HomePage from './pages/HomePage';
@@ -18,6 +19,7 @@ function App() {
             <Route path="plants" element={<PlantInfoPage />} />
             <Route path="tips" element={<GardeningTipsPage />} />
             <Route path="community" element={<CommunityPage />} />
+            <Route path="faq" element={<FAQPage />} /> {/* ✅ FAQ route added here */}
           </Route>
         </Routes>
       </Router>

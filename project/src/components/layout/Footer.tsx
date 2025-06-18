@@ -26,7 +26,7 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          
+
           <div>
             <h3 className="text-lg font-medium">Features</h3>
             <ul className="mt-4 space-y-2">
@@ -52,33 +52,33 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          
+
           <div>
             <h3 className="text-lg font-medium">Resources</h3>
             <ul className="mt-4 space-y-2">
               <li>
-                <a href="#" className="text-green-200 hover:text-white transition-colors">
+                <Link to="/blog" className="text-green-200 hover:text-white transition-colors">
                   Blog
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="text-green-200 hover:text-white transition-colors">
+                <Link to="/faq" className="text-green-200 hover:text-white transition-colors">
                   FAQs
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="text-green-200 hover:text-white transition-colors">
+                <Link to="/tutorials" className="text-green-200 hover:text-white transition-colors">
                   Tutorials
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="text-green-200 hover:text-white transition-colors">
+                <Link to="/support" className="text-green-200 hover:text-white transition-colors">
                   Contact Support
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
-          
+
           <div>
             <h3 className="text-lg font-medium">Newsletter</h3>
             <p className="mt-2 text-sm text-green-200">
@@ -101,7 +101,7 @@ const Footer = () => {
             </form>
           </div>
         </div>
-        
+
         <div className="mt-12 pt-8 border-t border-green-700 text-center text-sm text-green-300">
           <p>&copy; {new Date().getFullYear()} Veggie Buddy. All rights reserved.</p>
         </div>
